@@ -1,0 +1,16 @@
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\bin\Debug\net5.0\OperatoriAndStatement.exe
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\bin\Debug\net5.0\OperatoriAndStatement.deps.json
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\bin\Debug\net5.0\OperatoriAndStatement.runtimeconfig.json
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\bin\Debug\net5.0\OperatoriAndStatement.runtimeconfig.dev.json
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\bin\Debug\net5.0\OperatoriAndStatement.dll
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\bin\Debug\net5.0\ref\OperatoriAndStatement.dll
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\bin\Debug\net5.0\OperatoriAndStatement.pdb
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\obj\Debug\net5.0\OperatoriAndStatement.csproj.AssemblyReference.cache
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\obj\Debug\net5.0\OperatoriAndStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\obj\Debug\net5.0\OperatoriAndStatement.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\obj\Debug\net5.0\OperatoriAndStatement.AssemblyInfo.cs
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\obj\Debug\net5.0\OperatoriAndStatement.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\obj\Debug\net5.0\OperatoriAndStatement.dll
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\obj\Debug\net5.0\ref\OperatoriAndStatement.dll
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\obj\Debug\net5.0\OperatoriAndStatement.pdb
+C:\Users\Marti\Desktop\Week1\Ale repository\OperatoriAndStatement\obj\Debug\net5.0\OperatoriAndStatement.genruntimeconfig.cache

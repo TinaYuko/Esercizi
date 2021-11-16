@@ -1,0 +1,16 @@
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\bin\Debug\net5.0\Routine.exe
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\bin\Debug\net5.0\Routine.deps.json
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\bin\Debug\net5.0\Routine.runtimeconfig.json
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\bin\Debug\net5.0\Routine.runtimeconfig.dev.json
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\bin\Debug\net5.0\Routine.dll
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\bin\Debug\net5.0\ref\Routine.dll
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\bin\Debug\net5.0\Routine.pdb
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\obj\Debug\net5.0\Routine.csproj.AssemblyReference.cache
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\obj\Debug\net5.0\Routine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\obj\Debug\net5.0\Routine.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\obj\Debug\net5.0\Routine.AssemblyInfo.cs
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\obj\Debug\net5.0\Routine.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\obj\Debug\net5.0\Routine.dll
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\obj\Debug\net5.0\ref\Routine.dll
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\obj\Debug\net5.0\Routine.pdb
+C:\Users\Marti\Desktop\Week1\Ale repository\Routine\obj\Debug\net5.0\Routine.genruntimeconfig.cache
